@@ -62,3 +62,5 @@ Here is how it would look in your code:
         engine.setProperty('voice', "VOICE_ID_HERE")
         engine.say(mensaje)
         engine.runAndWait()
+
+"The code in this repository is based on lessons from Federico Garay's course."
